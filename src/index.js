@@ -14,6 +14,7 @@ const ButtonBase = styled.button`
   border-width: 0;
 
   background-color: cyan;
+  transform: translate3d(0,0,0);
 
   :hover {
     filter: brightness(1.06);
